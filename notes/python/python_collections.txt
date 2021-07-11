@@ -1,0 +1,11 @@
+https://docs.python.org/3.9/library/collections.html?highlight=collections#module-collections
+
+namedtuple()
+deque
+ChainMap
+Counter
+OrderedDict
+defaultdict
+UserDict
+UserList
+UserString

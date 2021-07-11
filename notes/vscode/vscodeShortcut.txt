@@ -1,0 +1,5 @@
+in my Ubuntu 20.04 vscode June 2021 (version 1.58)
+ctrl + x: delete the line
+shift + down: copy the line downwards
+shift + up: copy the line upwards
+ctrl + B: 

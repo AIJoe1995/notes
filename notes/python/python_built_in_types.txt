@@ -1,0 +1,23 @@
+https://docs.python.org/3/library/stdtypes.html
+python 3.9.6
+
+
+Numeric types: int float complex
+
+Iterator types: generator types
+
+Sequence types: list tuple range
+
+Text Sequence types: str
+
+Binary Sequence types: bytes bytearray memoryview
+
+Set types: set, frozenset
+
+Mapping types: dict
+
+context manager types: 
+
+Generic Alias type:
+
+other built-in types: modules, classes and class instance, functions, methods, code object, type object, the Null object, the Elipsis object, the Nonimplemented object, Boolean values, Internal objects.
