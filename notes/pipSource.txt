@@ -7,3 +7,5 @@ pip install pip -U
 
 ~/.pip/pip.conf
 
+the end
+
