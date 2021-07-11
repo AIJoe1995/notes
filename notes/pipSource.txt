@@ -1,0 +1,9 @@
+http://pypi.doubanio.com/simple
+https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+
+pip install -i https://mirrors.tuna.tsinghua.edu.cn/help/pypi/ pip -U
+pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/help/pypi/
+pip install pip -U
+
+~/.pip/pip.conf
+
